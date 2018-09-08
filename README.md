@@ -1,7 +1,7 @@
 # @ngxs/cli
 ![npm version](https://badge.fury.io/js/ngxs-cli.svg)
 
-![CLI Screenshot](https://raw.githubusercontent.com/Angular-RU/ngxs-cli-devbuild/master/assets/cli.gif)
+![CLI Screenshot](./assets/cli.gif)
 
 ## Install
 The CLI can be installed using NPM:
